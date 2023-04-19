@@ -1,6 +1,7 @@
 # skrill_angel_rug
 
-https://cdn.discordapp.com/attachments/1040651556279816335/1097885700751372288/atr_angel_rug.png
+
+![atr_angel_rug](https://user-images.githubusercontent.com/119594378/233061577-003e453d-2ea5-4458-b46d-2b011d175b74.png)
 
 https://discord.gg/9jbqhVDVVT
 
